@@ -1,9 +1,6 @@
-<div align=center><img src="https://urlshare.img.ink/2022/63b4c05602c63.png"/>
+<div align=center>
 <h1>DailyInfo</h1>
 <h6>基于 Python 的每日图文推送</h6>
-<a href="https://github.com/thund1r/daily-info">
-<img src="https://shields.io/badge/Daily--Info-blue?logo=github&style=for-the-badge&logoColor=white&link=https://github.com/thund1r/daily-info"></img></a>
-<a href="https://gitee.com/thund1r/daily-info"><img src="https://shields.io/badge/Daily--Info-red?logo=gitee&style=for-the-badge&logoColor=white&link=https://gitee.com/thund1r/daily-info"></img></a>
 </div>
 
 
