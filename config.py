@@ -12,33 +12,33 @@ import os
 SYS_CONFIG = {
     # 企业微信企业ID，非必填
     # 需要发送企业微信消息时必填
-    "corpid": "ww6b3bc1cb228560f4",
+    "corpid": "",
 
     # 企业微信应用Secret，非必填
     # 需要发送企业微信消息时必填
-    "corpsecret": "_ChcQLZiO9JyV8qdJ33fKvnqvu-E-6mriNwXeDj30rk",
+    "corpsecret": "",
 
     # 企业微信AgentId，非必填
     # 需要发送企业微信消息时必填
-    "agentid": "1000002",
+    "agentid": "",
 
     # 测试号appID，非必填
     # 需要测试号发送时必填
-    "appid": "", # wx485efb155ccbc08f
+    "appid": "", 
 
     # 测试号appsecret，非必填
     # 需要测试号发送时必填
-    "appsecret": "", # a1895f2a64c6dcb1bb30bdba3e71ff8c
+    "appsecret": "", # 
 
     # 测试号后台用户微信号，非必填
     # 需要测试号发送时必填
     # 多用户以&&分割
     # 例如：abc123&&def456
-    "userid": "", #oTyBY6_vdtpiwz4V-HKX5BCyskYE
+    "userid": "", 
 
     # 测试号模板ID，非必填
     # 需要测试号发送时必填
-    "templateid": "", #K5Y8QPR3FoAKX1a-nyoiZfl9e4vX3cnYQlI_Ep7YQsg
+    "templateid": "", 
 
     # 发送邮件的邮箱地址，非必填
     # 需要发送邮件时必填
@@ -58,13 +58,13 @@ SYS_CONFIG = {
 
     # 和风天气Key，非必填
     # 需要天气信息时必填
-    "qweather": "0fd8b705c76b40099f21e66abc0e23f6",
+    "qweather": "",
 
     # 天气预报地址，非必填
     # 需要天气信息时必填
     # 格式：省/市-市/县/区，多地址以&&分隔
     # 例如：四川-成都&&江苏-江宁
-    "city": "江苏-昆山",
+    "city": "",
 
     # 纪念日名称，非必填
     # 需要纪念日功能时必填
@@ -128,7 +128,7 @@ SYS_CONFIG = {
 
     # 天行数据APIKEY，非必填
     # 需要彩虹屁功能时必填
-    "tian": "8d3a446989c41f55c96dff3988aed96c",
+    "tian": "",
 
     # 图文详情页链接，非必填
     # 需要卡片可点击进入详情页功能时必填
@@ -136,7 +136,7 @@ SYS_CONFIG = {
     # 腾讯云函数用户填写API网关触发网关网址
     # 服务器用户请自行搭建Diary，填写已备案域名:端口号/show
     # 务必以 http:// 或 https:// 开头
-    "link": "http://sunnoc.xyz"
+    "link": ""
 }
 
 
