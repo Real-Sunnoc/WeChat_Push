@@ -33,17 +33,6 @@
 - 可自定义机器人名称 头像 卡片头图 标题 内容 称呼
 - 详细的拓展模板
 
-## Preview
-
-- 单图文
-
-<div align=center><img src="https://urlshare.img.ink/2022/f9a9f06cb0b14.png" width="600"/></div>
-
-- 多图文
-
-<div align=center><img src="https://urlshare.img.ink/2022/41d989a8bfa51.png" width="600"/></div>
-
-<div align=center><img src="https://urlshare.img.ink/2022/75dbbc1e4585f.png" width="600"/></div>
 
 ## Preparation
 
