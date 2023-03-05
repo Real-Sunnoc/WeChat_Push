@@ -1,2 +1,0 @@
-{'ID': '2', '告警等级': 'Ok', '状态': 'Assert', '传感器类型': 'Power Supply / Converter', '传感器编号': 175, '描述': 'Presence detected'}
-{'ID': '1', '告警等级': 'Ok', '状态': 'Assert', '传感器类型': 'System ACPI PowerState', '传感器编号': 34, '描述': 'S4/S5 soft-off'}
